@@ -712,6 +712,27 @@ p {
 	#header .nav-list ul a:after {
 		display: none;
 	}
+	
+	
+	#header2 .hamburger {
+		display: none;
+	}
+	#header2 .nav-list ul {
+		position: initial;
+		display: block;
+		height: auto;
+		width: fit-content;
+		background-color: transparent;
+	}
+	#header2 .nav-list ul li {
+		display: inline-block;
+	}
+	#header2 .nav-list ul li a {
+		font-size: 1.8rem;
+	}
+	#header2 .nav-list ul a:after {
+		display: none;
+	}
 	#services .service-bottom .service-item {
 		flex-basis: 22%;
 		margin: 1.5%;
