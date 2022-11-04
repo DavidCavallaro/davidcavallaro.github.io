@@ -620,6 +620,10 @@ p {
 	#hero2 h1 {
 		font-size: 7rem;
 	}
+	#services .service-bottom .service-item {
+		flex-basis: 45%;
+		margin: 2.5%;
+	}
 	#projects .project-item {
 		flex-direction: row;
 	}
