@@ -1,5 +1,5 @@
 <?php
-$my_email = "email@domain.com"; //fill in your own e-mail adress
+$my_email = "info@davidcavallaro.it"; //fill in your own e-mail adress
 ?>
 
 <html>
